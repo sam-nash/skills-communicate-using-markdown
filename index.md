@@ -19,3 +19,9 @@ this is a code
 list = []
 tuple = ()
 ```
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+- [ ] This is in progress
+
